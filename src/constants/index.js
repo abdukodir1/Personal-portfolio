@@ -11,6 +11,7 @@ export const ABOUT_TEXT = `I am a dedicated and versatile front-end developer wi
 export const PROJECTS = [
   {
     title: "Billing Inventory Software",
+    link: "https://github.com/abdukodir1/m_web",
     image: project1,
     description:
       "A fully functional billing Inventory Software web, android, iOS platforms with features like product listing, shopping cart, and user authentication.",
@@ -18,6 +19,7 @@ export const PROJECTS = [
   },
   {
     title: "Modern travel Website",
+    link: "https://github.com/abdukodir1/travel-agency",
     image: project2,
     description:
       "A modern and responsive front-end for a travel booking website. Features include an intuitive search and filter system, interactive maps, seamless booking flow, and a visually appealing UI. ",
@@ -25,6 +27,7 @@ export const PROJECTS = [
   },
   {
     title: "Portfolio Website",
+    link: "https://github.com/abdukodir1/Personal-portfolio",
     image: project3,
     description:
       "A personal portfolio website showcasing projects, resume, skills-technologies, and contact information.",
@@ -32,6 +35,7 @@ export const PROJECTS = [
   },
   {
     title: "Quiz web-application",
+    link: "https://github.com/abdukodir1/quiz-project",
     image: project4,
     description:
       "This engaging quiz app is built using the React library, making it a great project for practicing front-end skills. In this project, users can test and improve their knowledge of front-end development concepts.",
@@ -39,6 +43,7 @@ export const PROJECTS = [
   },
   {
     title: "Create users",
+    link: "https://github.com/abdukodir1/C-user-React",
     image: project5,
     description:
       "This is a simple Create Users project built with React. It includes a modal and form for adding and managing users. Great for practicing React fundamentals!",

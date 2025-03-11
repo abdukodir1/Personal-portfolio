@@ -36,7 +36,14 @@ function Projects() {
                 transition={{ duration: 1 }}
                 className="w-full lg:ml-6 lg:w-2/4 mb-4"
               >
-                <h2 className="mb-2 font-semibold text-2xl">{project.title}</h2>
+                <a
+                  href={project.link}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="mb-2 font-semibold text-2xl"
+                >
+                  {project.title}
+                </a>
                 <p className="mb-2 text-stone-400">{project.description}</p>
                 {project.technologies.map((tech, i) => {
                   return (
