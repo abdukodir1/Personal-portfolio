@@ -135,7 +135,7 @@ function Hero() {
                   </motion.div>
                   <motion.div variants={itemVariants}>
                     <NavLink
-                      to="/resume.pdf"
+                      to="/압두코디르의_프론트엔드_이력서.pdf"
                       target="_blank"
                       rel="noopener noreferrer"
                       download

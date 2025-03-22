@@ -126,7 +126,7 @@ function Navbar() {
               </NavLink>
               <NavLink
                 className={({ isActive }) => (isActive ? "text-stone-500" : "")}
-                to="/resume.pdf"
+                to="/압두코디르의_프론트엔드_이력서.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 download
@@ -174,7 +174,7 @@ function Navbar() {
 
               <NavLink
                 onClick={handleLinkClick}
-                to="/resume.pdf"
+                to="/압두코디르의_프론트엔드_이력서.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 download
